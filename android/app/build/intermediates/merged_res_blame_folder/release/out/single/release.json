@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.bellmandford.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-mdpi_src_assets_alert_error.png.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-mdpi/src_assets_alert_error.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.bellmandford.app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/mipmap-hdpi_logo.png.flat",
+        "source": "com.bellmandford.app-main-35:/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.bellmandford.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.bellmandford.app-main-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.bellmandford.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.bellmandford.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.bellmandford.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-mdpi_src_assets_images_samboang.jpg.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-mdpi/src_assets_images_samboang.jpg"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.bellmandford.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-mdpi_src_assets_images_login.png.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-mdpi/src_assets_images_login.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.bellmandford.app-main-35:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-mdpi_src_assets_images_coursel2.png.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-mdpi/src_assets_images_coursel2.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-mdpi_src_assets_images_coursel1.png.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-mdpi/src_assets_images_coursel1.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/mipmap-xhdpi_logo.png.flat",
+        "source": "com.bellmandford.app-main-35:/mipmap-xhdpi/logo.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-mdpi_src_assets_images_logot.png.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-mdpi/src_assets_images_logot.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-mdpi_src_assets_images_ujung_tiro.webp.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-mdpi/src_assets_images_ujung_tiro.webp"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-mdpi_src_assets_images_pusahelu.webp.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-mdpi/src_assets_images_pusahelu.webp"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.bellmandford.app-main-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/mipmap-xxxhdpi_logo.png.flat",
+        "source": "com.bellmandford.app-main-35:/mipmap-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-mdpi_src_assets_alert_warning.png.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-mdpi/src_assets_alert_warning.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/mipmap-xxhdpi_logo.png.flat",
+        "source": "com.bellmandford.app-main-35:/mipmap-xxhdpi/logo.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-mdpi_src_assets_alert_success.png.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-mdpi/src_assets_alert_success.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-mdpi_src_assets_images_coursel3.png.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-mdpi/src_assets_images_coursel3.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/drawable-mdpi_src_assets_images_person.png.flat",
+        "source": "com.bellmandford.app-react-29:/drawable-mdpi/src_assets_images_person.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.bellmandford.app-main-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.bellmandford.app-merged_res-34:/mipmap-mdpi_logo.png.flat",
+        "source": "com.bellmandford.app-main-35:/mipmap-mdpi/logo.png"
+    }
+]

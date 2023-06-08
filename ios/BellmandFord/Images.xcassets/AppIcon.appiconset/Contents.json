@@ -1,0 +1,62 @@
+{
+  "images" : [
+    {
+      "filename" : "Salinan dari Desain Tanpa Judul (40 × 40 piksel).png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "Salinan dari Desain Tanpa Judul (40 × 40 piksel) (1).png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "Salinan dari Desain Tanpa Judul (40 × 40 piksel) (2).png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "Salinan dari Desain Tanpa Judul (40 × 40 piksel) (3).png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "Salinan dari Desain Tanpa Judul (40 × 40 piksel) (4).png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "Salinan dari Desain Tanpa Judul (40 × 40 piksel) (5).png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "Salinan dari Desain Tanpa Judul (40 × 40 piksel) (5) 1.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "Salinan dari Desain Tanpa Judul (40 × 40 piksel) (6).png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "Salinan dari Desain Tanpa Judul (40 × 40 piksel) (7).png",
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

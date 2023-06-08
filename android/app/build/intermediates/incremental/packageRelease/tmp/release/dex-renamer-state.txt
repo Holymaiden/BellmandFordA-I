@@ -1,0 +1,7 @@
+#Tue May 30 17:25:59 WITA 2023
+base.0=E\:\\Belajar\\React native\\BellmandFord\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.1=E\:\\Belajar\\React native\\BellmandFord\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

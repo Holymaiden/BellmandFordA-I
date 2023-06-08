@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BellmandFord</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDAvs1mDQYuAxWGbSf7T5eO93v5VedySXc</string>
+</resources>

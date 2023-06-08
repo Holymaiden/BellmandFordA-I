@@ -1,0 +1,93 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/font/FiraSans-Black.ttf",
+      "sha1": "d4f1f6397ae7e9ec9a079df6bf05164493216d2c"
+    },
+    {
+      "path": "src/assets/font/FiraSans-BlackItalic.ttf",
+      "sha1": "85b0ff494e9b259722175a6f7367e4c713849352"
+    },
+    {
+      "path": "src/assets/font/FiraSans-Bold.ttf",
+      "sha1": "bdb04cd9e835a3cf7ba22df0354f1472812df225"
+    },
+    {
+      "path": "src/assets/font/FiraSans-BoldItalic.ttf",
+      "sha1": "64ca0c2a17bc89e3e274ab93d0a34ccf557ed5ee"
+    },
+    {
+      "path": "src/assets/font/FiraSans-ExtraBold.ttf",
+      "sha1": "d9a480fc974e62445563aee389896c6e92c32edb"
+    },
+    {
+      "path": "src/assets/font/FiraSans-ExtraBoldItalic.ttf",
+      "sha1": "d2605b822cb69309d7408914062ae483b9e049bc"
+    },
+    {
+      "path": "src/assets/font/FiraSans-ExtraLight.ttf",
+      "sha1": "98749514f072dfed08fcf9ff5e77ecfbc5e48cd8"
+    },
+    {
+      "path": "src/assets/font/FiraSans-ExtraLightItalic.ttf",
+      "sha1": "87f5e101da6eb900e6dbcd0e2e0988bd02462558"
+    },
+    {
+      "path": "src/assets/font/FiraSans-Italic.ttf",
+      "sha1": "c584552cccc716eb287a95a23806be746f3cad73"
+    },
+    {
+      "path": "src/assets/font/FiraSans-Light.ttf",
+      "sha1": "d795fdfc99d1bad2c0e42eea5a9f06e49dd67b1b"
+    },
+    {
+      "path": "src/assets/font/FiraSans-LightItalic.ttf",
+      "sha1": "26d80b11b6b24499165341bce66c05126623052e"
+    },
+    {
+      "path": "src/assets/font/FiraSans-Medium.ttf",
+      "sha1": "9181432d76711ae510c9f20713465810cf09e63b"
+    },
+    {
+      "path": "src/assets/font/FiraSans-MediumItalic.ttf",
+      "sha1": "70985253068fcdd4774f198c6098c5f4946e548e"
+    },
+    {
+      "path": "src/assets/font/FiraSans-Regular.ttf",
+      "sha1": "9647e8c14e6618517f6942fbada0a01e2c18973d"
+    },
+    {
+      "path": "src/assets/font/FiraSans-SemiBold.ttf",
+      "sha1": "7d6bc4d8ea78656ca2f234e41f0e74e676ad61e2"
+    },
+    {
+      "path": "src/assets/font/FiraSans-SemiBoldItalic.ttf",
+      "sha1": "925d03ef5fb51987cd0405f7cb717456ef24854a"
+    },
+    {
+      "path": "src/assets/font/FiraSans-Thin.ttf",
+      "sha1": "98d54288a6f354977e85bc4bb200e910d5045b8b"
+    },
+    {
+      "path": "src/assets/font/FiraSans-ThinItalic.ttf",
+      "sha1": "7e3a0aabbeb7122f3cb4d9e898cd55810a810ef9"
+    },
+    {
+      "path": "src/assets/font/LibreBaskerville-Bold.ttf",
+      "sha1": "f8081cbeceb2e69fdffca2348b2c9e0933cd52b5"
+    },
+    {
+      "path": "src/assets/font/LibreBaskerville-Italic.ttf",
+      "sha1": "1c4a7eed5b5ffeed2818cc75c16825596d64ab67"
+    },
+    {
+      "path": "src/assets/font/LibreBaskerville-Regular.ttf",
+      "sha1": "ed706d27473a09536d94fed8fee4809fda713759"
+    },
+    {
+      "path": "src/assets/font/OFL.txt",
+      "sha1": "f0ff8213ed415166dea8583748c8dd8f4a702f74"
+    }
+  ]
+}
